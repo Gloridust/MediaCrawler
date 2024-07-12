@@ -1,6 +1,6 @@
 # 基础配置
 PLATFORM = "xhs"
-KEYWORDS = "四川,旅游,路线"
+KEYWORDS = "四川旅游行程路线推荐,成都旅游路线推荐"
 LOGIN_TYPE = "phone"  # qrcode or phone or cookie
 COOKIES = ""
 # 具体值参见media_platform.xxx.field下的枚举值，暂时只支持小红书
